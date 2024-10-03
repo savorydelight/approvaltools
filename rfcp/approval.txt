@@ -1,4 +1,6 @@
 #owner
 RFCP-10221DS10221
 RFCP-10259DS10259
-#trial
+
+#rental yvaie (15days) | Oct.3, 2024
+RFCP-10244DS10244
