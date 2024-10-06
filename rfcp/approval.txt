@@ -9,3 +9,8 @@ Expiration Date: Oct. 18, 2024 | 10:15pm
 #rental Yva - v2 (15days) | Oct.4, 2024
 RFCP-10247DS10247
 Expiration Date: Oct. 19, 2024 | 8:25am
+
+
+#rental Yva - v3 (15days) | Oct. 6, 2024
+RFCP-10235DS10235
+Expiration Date: Oct. 21, 2024 | 7:04pm
